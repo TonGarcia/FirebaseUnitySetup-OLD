@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "876798548962",
+    "firebase_url": "https://unitysetup.firebaseio.com",
+    "project_id": "unitysetup",
+    "storage_bucket": "unitysetup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876798548962:android:a6c66dccce17d2a53ab7bb",
+        "android_client_info": {
+          "package_name": "com.SSStudio.FirebaseUnity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876798548962-hqrorenn17o7gf283l994h02u9ka3qfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-J54krjO4x3nC-bY1R4NnTnC8GiFSMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876798548962-hqrorenn17o7gf283l994h02u9ka3qfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876798548962-5ddukra2ijklbtcit1h25o2145hoclfg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssstudio.unitysetup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876798548962:android:ff42cb8658be63153ab7bb",
+        "android_client_info": {
+          "package_name": "com.unitysetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876798548962-hqrorenn17o7gf283l994h02u9ka3qfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-J54krjO4x3nC-bY1R4NnTnC8GiFSMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876798548962-hqrorenn17o7gf283l994h02u9ka3qfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876798548962-5ddukra2ijklbtcit1h25o2145hoclfg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssstudio.unitysetup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
