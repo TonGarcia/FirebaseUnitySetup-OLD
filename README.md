@@ -3,6 +3,12 @@ Unity Firebase Setup with [Unity.Github.com](https://assetstore.unity.com/packag
 
 *Obs.: re-add packages, because .so was unabled to be versionate at github
 
+# Git lfts
+1. ```brew update```
+1. ```brew install git-lfs```
+1. ```git lfs install```
+1. CHECK IF PROJECT GITIGNORE & GIT ATTRIBUTES
+
 # Create with name
 <img width="1440" alt="Captura de Tela 2019-12-06 às 19 49 21" src="https://user-images.githubusercontent.com/3121488/70361793-92158680-1861-11ea-98b9-c409b1fa3f2b.png">
 
